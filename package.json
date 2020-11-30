@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/client": "^3.2.9",
+    "@salesforce-ux/design-system": "^2.13.7",
+    "@salesforce/babel-preset-design-system-react": "^3.0.0",
+    "@salesforce/design-system-react": "^0.10.23",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
@@ -10,10 +14,15 @@
     "@types/node": "^12.19.7",
     "@types/react": "^16.14.2",
     "@types/react-dom": "^16.9.10",
+    "apollo": "^2.31.1",
+    "css-loader": "^5.0.1",
+    "graphql": "^15.4.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
+    "style-loader": "^2.0.0",
     "typescript": "^4.1.2",
+    "url-loader": "^4.1.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
